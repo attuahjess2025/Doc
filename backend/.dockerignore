@@ -1,0 +1,8 @@
+# Backend — files excluded from Docker build context
+target/
+*.iml
+*.idea/
+.git/
+.gitignore
+README.md
+*.log

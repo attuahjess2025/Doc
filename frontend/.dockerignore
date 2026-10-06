@@ -1,0 +1,7 @@
+# Frontend — files excluded from Docker build context
+node_modules/
+dist/
+.git/
+.gitignore
+README.md
+*.log
